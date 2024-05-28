@@ -1,6 +1,7 @@
 # Mastering Python: An In-Depth Guide
 
 Python is a versatile and powerful programming language known for its readability and straightforward syntax. It is a favorite among developers in diverse fields, from web development to data science, due to its simplicity and the vast ecosystem of libraries and frameworks it supports.
+![Python logo](https://www.python.org/static/img/python-logo@2x.png)
 
 ## 1. Python's Key Features
 
@@ -54,8 +55,8 @@ conferences around the world, such as PyCon, and an abundance of resources avail
 ### 3.1 Community Resources
 
 Here are some great places to learn more about Python:
-- Python.org - The official Python website.
-- PyCon - A major conference for the Python community.
+- [Python.org](https://www.python.org) - The official Python website.
+- [PyCon](https://pycon.org) - A major conference for the Python community.
 
 ### 3.2 Utilizing Python Libraries
 
